@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1549950730 source:d:\momo'sfile\c++\momilibscreen2\momotest2\main.cpp
+	"../../momoLib/Lib.h"
+
+1549949752 d:\momo'sfile\c++\momolib\lib.h
+	<iostream>
+	<Windows.h>
+	<string>
+	<vector>
+	<random>
+	<ctime>
+
